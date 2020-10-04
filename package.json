@@ -1,0 +1,13 @@
+{
+    "name": "WRATH OFFICIAL",
+    "version": "1.0.0",
+    "description": "WRATHS OFFICIAL BOT AND UNDER DEVELOPEMENTS AND TRIAL BY KNIGHTSOUL",
+    "main": "WRATH-OFFICIAL.js",
+    "author": "Knightsoul",
+    "scripts": {
+        "start": "node bot.js"
+    },
+    "dependencies": {
+	"discord.js" : "11.2.1"
+	}
+}
